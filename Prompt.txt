@@ -1,0 +1,16 @@
+I attached MATH_PHYSICS_ACADEMIC_TRANSLATION_TOOL.py and a book PDF.
+
+1. Run: python MATH_PHYSICS_ACADEMIC_TRANSLATION_TOOL.py readme   and read it fully.
+
+
+2. Run: python MATH_PHYSICS_ACADEMIC_TRANSLATION_TOOL.py check-env   and install what is missing.
+
+
+3. Translate the book from <source language> to <languageyou want>, output: PDF.
+Follow the pipeline for my input type (digital PDF = Pipeline B).
+Rules: do not change, simplify or "fix" any formula, number, table, figure or label.
+Do the transcription and translation steps yourself, following the tool's own prompts.
+Run the tool's QC before export and show me every blocking finding.
+Do not claim a step was done unless you ran it. Tell me what you could not do.
+
+
